@@ -226,13 +226,6 @@ docker system prune -a
 docker-compose up --build --force-recreate
 ```
 
-## License
-
-MIT License
-
-## Author
-
-shima418
 
 ## Links
 
