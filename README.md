@@ -576,13 +576,7 @@ npm start
 - [DOCKER.md](DOCKER.md) - Docker deployment guide
 - [backend/tests/README.md](backend/tests/README.md) - Testing documentation
 
-## License
 
-MIT License
-
-## Author
-
-shima418
 
 ## Links
 
