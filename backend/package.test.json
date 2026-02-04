@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce-backend-tests",
+  "version": "1.0.0",
+  "description": "Test suite for e-commerce backend API",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.3",
+    "sqlite3": "^5.1.6"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverageFrom": [
+      "routes/**/*.js",
+      "database.js",
+      "server.js"
+    ]
+  }
+}
