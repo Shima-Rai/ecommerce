@@ -22,8 +22,6 @@ A full-stack web application for managing product catalog and generating sales r
 - [Key Features](#key-features)
 - [Troubleshooting](#troubleshooting)
 - [Documentation](#documentation)
-- [License](#license)
-- [Author](#author)
 - [Links](#links)
 
 ## Features
