@@ -69,8 +69,7 @@ docker pull shima418/smart-frontend:latest
 docker run -d --name smart-backend -p 5000:5000 shima418/smart-backend:latest
 
 # Run frontend
-docker run -d --name smart-frontend -p 3000:3000 \
-  -e REACT_APP_API_URL=http://backend:5000/api \
+docker run -d --name smart-frontend -p 3000:3000 
   shima418/smart-frontend:latest
 ```
 
